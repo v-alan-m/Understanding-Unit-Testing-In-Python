@@ -53,9 +53,7 @@ Apply knowledge to real-world exercise by solving the classic **Supermarket Chec
 
 ## 6. 🎭 Test Doubles
 
-Learn about **Test Doubles**, including:
-
-Use them to isolate and control testing environments effectively.
+Learn about **Test Doubles**
 
 ---
 
